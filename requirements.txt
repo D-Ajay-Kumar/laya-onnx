@@ -1,0 +1,9 @@
+laya==0.3.20
+torch==2.14.0
+transformers==5.17.0
+safetensors
+huggingface_hub
+onnx==1.23.0
+onnxruntime==1.30.0
+onnxscript
+psutil
